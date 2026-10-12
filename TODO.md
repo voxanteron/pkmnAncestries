@@ -8,6 +8,7 @@ Do these first; the ancestries build on them.
 - [ ] `reference/`: balance guidelines (HP by size/stage, boost/flaw patterns, how evolution heritages scale)
 - [ ] `reference/`: decide how game Abilities become innate abilities and feats
 - [ ] `reference/`: Starfinder 2e adaptation rules (tech feats, vacuum, languages)
+- [ ] Also add in a list of regions that each pokemon comes from to use for heritage generation
 
 ## Versatile Heritages
 
