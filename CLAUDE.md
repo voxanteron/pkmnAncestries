@@ -21,4 +21,4 @@ Fan project: playable ancestries for every Pokémon, for Pathfinder 2e and Starf
 - Starfinder-specific changes go only in the "Starfinder 2e Notes" section.
 - Shared mechanics (Pokémon type traits, balance rules) live in `reference/` — reuse rather
   than reinventing per ancestry.
-- No remote is configured; do not add one.
+- Remote `origin`: https://github.com/voxanteron/pkmnAncestries
