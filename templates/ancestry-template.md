@@ -1,6 +1,7 @@
 # <Base Pokémon Name>
 
-**Evolution line:** <Base> (#000) → <Stage 1> (#000) → <Stage 2> (#000)
+**Evolution line:** <Base> (#0000) → <Stage 1> (#0000) → <Stage 2> (#0000)
+
 **Generation:** 0 · **Base Pokémon Type(s):** <Type> / <Type>
 
 > Short flavor description of the line as a playable people. The ancestry represents the
@@ -42,13 +43,13 @@ Evolution heritages represent the evolved members of the line. Branching lines
 
 ### <Stage 1 Pokémon> (Evolution Heritage)
 
-**Pokémon Type(s):** <Type> / <Type>
+**Evolves from:** <Base> · **Pokémon Type(s):** <Type> / <Type>
 
 <Description and mechanical benefit.>
 
 ### <Stage 2 Pokémon> (Evolution Heritage)
 
-**Pokémon Type(s):** <Type> / <Type>
+**Evolves from:** <Stage 1> · **Pokémon Type(s):** <Type> / <Type>
 
 <Description and mechanical benefit.>
 

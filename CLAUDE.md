@@ -14,7 +14,9 @@ Fan project: playable ancestries for every Pokémon, for Pathfinder 2e and Starf
   shared file per region in `versatile-heritages/` (from `templates/regional-heritage-template.md`).
   Line-specific changes go in the ancestry's "Regional Forms" section.
 - **Shiny** is a single versatile heritage (`versatile-heritages/shiny.md`) shared by every line.
-- Every new ancestry starts from `templates/ancestry-template.md`; keep its section order.
+- Every evolution line already has a stub file generated from `templates/ancestry-template.md`
+  (data from PokéAPI); fill stubs in place and keep the section order.
+- `TODO.md` tracks progress; check off an item when its file is complete.
 - Use Remaster terminology (attribute boosts/flaws, not ability scores; "edicts/anathema").
 - Balance against official Player Core ancestries: 6–10 HP, standard boost/flaw pattern,
   feats at levels 1/5/9/13/17.

@@ -15,11 +15,13 @@ reference/            Shared design notes: type-to-trait mappings, balance guide
 
 ## Writing an ancestry
 
-1. Copy `templates/ancestry-template.md` into the generation folder of the line's base Pokémon.
-2. Name the file with the base Pokémon's lowercase, hyphenated name (`mime-jr.md`, `farfetchd.md`).
+Every evolution line already has a stub in `ancestries/gen-<n>/`; progress is tracked in
+[TODO.md](TODO.md).
+
+1. Open the stub for the line's base Pokémon (`mime-jr.md`, `farfetchd.md`).
+2. Keep the pre-filled evolution line, types and regional form lists; replace the `<placeholders>`.
 3. The ancestry statistics describe the base form; each evolution is a heritage.
-4. List any regional forms the line has, pointing to the shared versatile heritage.
-5. Fill in every section; keep PF2e and SF2e differences in the dedicated SF2e section.
+4. Fill in every section; keep PF2e and SF2e differences in the dedicated SF2e section.
 
 ## Legal
 
