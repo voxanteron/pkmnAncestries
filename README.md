@@ -6,16 +6,20 @@ and Starfinder Second Edition core rules (Player Core / Remaster-compatible).
 ## Layout
 
 ```
-ancestries/   One Markdown file per ancestry, grouped by generation (e.g. ancestries/gen-1/bulbasaur.md)
-templates/    Starting template for new ancestry files
+ancestries/           One file per evolution line, named for the base Pokémon, grouped by generation
+                      (e.g. ancestries/gen-1/bulbasaur.md covers Bulbasaur, Ivysaur, Venusaur)
+versatile-heritages/  Regional forms (one per region) and the Shiny heritage, usable across ancestries
+templates/            Starting templates for ancestries and regional heritages
 reference/    Shared design notes: type-to-trait mappings, balance guidelines, house rules
 ```
 
 ## Writing an ancestry
 
-1. Copy `templates/ancestry-template.md` into the right generation folder.
-2. Name the file with the lowercase, hyphenated Pokémon name (`mr-mime.md`, `farfetchd.md`).
-3. Fill in every section; keep PF2e and SF2e differences in the dedicated SF2e section.
+1. Copy `templates/ancestry-template.md` into the generation folder of the line's base Pokémon.
+2. Name the file with the base Pokémon's lowercase, hyphenated name (`mime-jr.md`, `farfetchd.md`).
+3. The ancestry statistics describe the base form; each evolution is a heritage.
+4. List any regional forms the line has, pointing to the shared versatile heritage.
+5. Fill in every section; keep PF2e and SF2e differences in the dedicated SF2e section.
 
 ## Legal
 

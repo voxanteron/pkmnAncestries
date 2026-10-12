@@ -1,9 +1,10 @@
-# <Pokémon Name>
+# <Base Pokémon Name>
 
-**National Dex:** #000 · **Generation:** 0 · **Pokémon Type(s):** <Type> / <Type>
-**Evolution line:** <Base> → <Stage 1> → <Stage 2>
+**Evolution line:** <Base> (#000) → <Stage 1> (#000) → <Stage 2> (#000)
+**Generation:** 0 · **Base Pokémon Type(s):** <Type> / <Type>
 
-> Short flavor description of the Pokémon as a playable people.
+> Short flavor description of the line as a playable people. The ancestry represents the
+> base (lowest) form; evolved forms are heritages below.
 
 ## Ancestry Statistics
 
@@ -36,9 +37,31 @@
 
 ## Heritages
 
-### <Heritage Name>
+Evolution heritages represent the evolved members of the line. Branching lines
+(e.g. Eevee) get one heritage per branch.
+
+### <Stage 1 Pokémon> (Evolution Heritage)
+
+**Pokémon Type(s):** <Type> / <Type>
 
 <Description and mechanical benefit.>
+
+### <Stage 2 Pokémon> (Evolution Heritage)
+
+**Pokémon Type(s):** <Type> / <Type>
+
+<Description and mechanical benefit.>
+
+## Regional Forms
+
+Regional variants use the shared versatile heritages in `versatile-heritages/`. List only the
+forms this line has, with line-specific changes (type change, altered innate ability,
+region-exclusive evolutions such as Galarian Meowth → Perrserker). Delete this section if none.
+
+- **<Region> Form** (see `versatile-heritages/<region>.md`): <line-specific changes>
+
+The Shiny versatile heritage (`versatile-heritages/shiny.md`) applies to every line and doesn't
+need to be listed here.
 
 ## Ancestry Feats
 
