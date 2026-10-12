@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local Claude settings
+.claude/settings.local.json
+
+# Build output (if exports to PDF/HTML/Foundry are added later)
+build/
+dist/
