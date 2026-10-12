@@ -10,7 +10,7 @@ ancestries/           One file per evolution line, named for the base Pokémon, 
                       (e.g. ancestries/gen-1/bulbasaur.md covers Bulbasaur, Ivysaur, Venusaur)
 versatile-heritages/  Regional forms (one per region) and the Shiny heritage, usable across ancestries
 templates/            Starting templates for ancestries and regional heritages
-reference/    Shared design notes: type-to-trait mappings, balance guidelines, house rules
+reference/            Shared design notes: type-to-trait mappings, balance guidelines, house rules
 ```
 
 ## Writing an ancestry
