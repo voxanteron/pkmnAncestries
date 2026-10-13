@@ -5,7 +5,10 @@
 Do these first; the ancestries build on them.
 
 - [ ] `reference/`: map each Pokémon type to a Pathfinder/Starfinder trait (and decide on any new traits)
+- [x] [`reference/official-ancestries.md`](reference/official-ancestries.md): baseline survey of all official PF2e/SF2e ancestries (Player Core onward)
+- [x] [`reference/ancestry-feat-benchmarks.md`](reference/ancestry-feat-benchmarks.md): at what level official feats grant attacks, resistances, movement, innate spells, size/form changes
 - [ ] `reference/`: balance guidelines (HP by size/stage, boost/flaw patterns, how evolution heritages scale)
+- [ ] Calibrate on test lines (Bulbasaur, Pidgey, Eevee) before scaling up
 - [ ] `reference/`: decide how game Abilities become innate abilities and feats
 - [ ] `reference/`: Starfinder 2e adaptation rules (tech feats, vacuum, languages)
 - [ ] Also add in a list of regions that each pokemon comes from to use for heritage generation
